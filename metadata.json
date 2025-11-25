@@ -1,0 +1,4 @@
+{
+  "name": "SQL <-> Delphi Converter",
+  "description": "A developer utility tool to quickly convert raw SQL queries into Delphi TStrings code and vice-versa."
+}
